@@ -2,9 +2,9 @@
 #programa1 N Y A
 
 # Edgar Giovanni Oliveros Jimenez
-texto="""Nombre
+texto="""Nombre:
 Edgar Giovanni Oliveros Jimenez"""
-texto2="""Numero de Control
+texto2="""Numero de Control:
 210120419"""
 
 
